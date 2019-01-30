@@ -91,6 +91,6 @@ let newState = {
     cars: ['car 1', ...stuff.cars, 'car2'],
   }
 };
-console.log(newState);
-console.log(state)
+// console.log(newState);
+// console.log(state)
 
